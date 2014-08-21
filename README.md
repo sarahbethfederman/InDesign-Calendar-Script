@@ -1,3 +1,3 @@
-InDesign-Calendar-Script
+InDesign Calendar Script
 ========================
 by Sarah Federman
